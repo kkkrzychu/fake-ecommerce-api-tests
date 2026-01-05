@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeEcommerce.ApiTests", "FakeEcommerce.ApiTests\FakeEcommerce.ApiTests.csproj", "{DA5FE172-9FC6-47FA-9972-10CFBF2F200F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5FE172-9FC6-47FA-9972-10CFBF2F200F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5FE172-9FC6-47FA-9972-10CFBF2F200F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5FE172-9FC6-47FA-9972-10CFBF2F200F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5FE172-9FC6-47FA-9972-10CFBF2F200F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F3434DA-DAEC-424A-8AD8-9842B30E5420}
+	EndGlobalSection
+EndGlobal
